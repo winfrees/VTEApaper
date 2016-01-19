@@ -169,7 +169,7 @@ public class XYChartPanel {
         LookupPaintScale ps = new LookupPaintScale(min,max, new Color(0,0,0));
 
         renderer.setPaintScale(ps);
-        Ellipse2D shape = new Ellipse2D.Double(0,0,4,4);
+        Ellipse2D shape = new Ellipse2D.Double(0,0,6,6);
         renderer.setBaseShape(shape);
         ps.add(min, this.TENPERCENT);
         ps.add(min+(1*(range/10)), this.TENPERCENT);
