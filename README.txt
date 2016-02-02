@@ -1,4 +1,4 @@
-Volumetric Tissue Exlporation and Analysis - V. 0.9.0... optimistically.
+Volumetric Tissue Exlporation and Analysis - V. 0.9.0_alpha1... optimistically.
 
 Installation:
 
